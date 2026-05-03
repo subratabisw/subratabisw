@@ -46,15 +46,14 @@
 
 ## ✨ Quick Summary
 
-🧠 Detail-oriented Computer Science student with hands-on experience in data entry, data management, and basic data analysis using Python and Excel. :contentReference[oaicite:0]{index=0}  
+🧠 Detail-oriented Computer Science student with hands-on experience in data entry, data management, and basic data analysis using Python and Excel. 
 
-🚀 Passionate about Data Science, Machine Learning, and solving real-world problems through data-driven approaches. :contentReference[oaicite:1]{index=1}  
+🚀 Passionate about Data Science, Machine Learning, and solving real-world problems through data-driven approaches. 
+🔬 Strong research interest in Machine Learning, Deep Learning, NLP, and multimodal data analysis, with practical project experience.
 
-🔬 Strong research interest in Machine Learning, Deep Learning, NLP, and multimodal data analysis, with practical project experience. :contentReference[oaicite:2]{index=2}  
+📊 Experienced in building ML/DL models (SVM, Random Forest, CNN, etc.) and working with real datasets for classification and prediction tasks.  
 
-📊 Experienced in building ML/DL models (SVM, Random Forest, CNN, etc.) and working with real datasets for classification and prediction tasks. :contentReference[oaicite:3]{index=3}  
-
-🤝 A collaborative learner with strong analytical thinking, communication skills, and a continuous growth mindset. :contentReference[oaicite:4]{index=4}  
+🤝 A collaborative learner with strong analytical thinking, communication skills, and a continuous growth mindset. 
 
 > *“Code. Learn. Evolve.”*
 
