@@ -61,8 +61,8 @@
 
 ## 🌐 Coding Profiles
 
-🔗 Codeforces: https://www.hackerrank.com/profile/sb1820095  
-🔗 HackerRank: https://codeforces.com/profile/sb1820095  
+🔗 Hackerrank: https://www.hackerrank.com/profile/sb1820095  
+🔗 CodeForces: https://codeforces.com/profile/sb1820095  
 
 ## 🌐 Connect with Me
 <p align="center">
