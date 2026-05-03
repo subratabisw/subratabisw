@@ -13,4 +13,3 @@
 ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![CNN](https://img.shields.io/badge/CNN-FF0000?style=for-the-badge)
 ![ANN](https://img.shields.io/badge/ANN-800080?style=for-the-badge)
-
