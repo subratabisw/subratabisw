@@ -44,14 +44,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratabisw&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/subrata-biswas-a991a2376/">
